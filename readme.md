@@ -81,8 +81,8 @@ To set up and run this Django API project on your local machine, follow these st
 9. **Access the API in your Browser or API Client:**
 
    The server will start at `http://127.0.0.1:8000`. You can access the documentation and test the endpoints using tools like Postman.
-   My postman collection url https://documenter.getpostman.com/view/27723928/2sA3XTfL6K
-   
+   My postman collection url `https://documenter.getpostman.com/view/27723928/2sA3XTfL6K`
+
 
 ## Usage
 
